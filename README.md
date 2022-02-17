@@ -1,5 +1,5 @@
 # Java_Practice
-This is my practice repository for Java.\n
+This is my practice repository for Java.
 update at least once a week.
 codes may have some bugs and problems. 
 Only for learning......
